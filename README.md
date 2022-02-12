@@ -8,7 +8,7 @@ Este proyecto se fundó en el mes de octubre de 2016 con la perspectiva de innov
 Los fundadores son Ana Tudela y Antonio Delgado. Ana, especializada en periodismo económico y de investigación y Antonio en datos, visualización e innovación editorial.
 
 ### Análisis del proyecto 
-Lo que caracteriza a Datadista es la **visualización de datos de interés para los lectores. Los temas más destacados de la página son la COVID-19, Playa Burbuja, Mar Menor, Empleo, Medio Ambiente. **
+Lo que caracteriza a Datadista es la **visualización de datos de interés para los lectores. Los temas más destacados de la página son la COVID-19, Playa Burbuja, Mar Menor, Empleo, Medio Ambiente.**
 
 En cuanto a la presentación de datos, los recursos más empleados son **tablas, gráficos, infografías y vídeos.** Las tablas tienen un diseño sencillo, sin colores. Pero lo que favorece esta presentación es priorizar la visualización de los datos y que los números destaquen por sí mismos. En otro diseño de tablas emplea los colores para mostrar la evolución de los datos. Es decir, se usa un color más claro para datos más bajos y la intensidad del color va aumentando según vaya aumentando los datos. Esto se usa en porcentajes. 
 
