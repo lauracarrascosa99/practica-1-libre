@@ -19,17 +19,19 @@ De este proyecto podemos destacar que es una buena vía para poder comprender lo
 
 ## TRESCA, otro proyecto de periodismo de datos. 
 
-*TRESCA* (https://trescaproject.eu/) nació para la comunicación de los resultados de la **investigación en Ciencias Sociales y Humanidades (SSH: estas siglas en inglés corresponden a "Social Sciences and Humanities") relacionada con los desarrollos de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM: estas siglas en inglés corresponden a "Science, Technology, Engineering and Mathematics") en torno a la digitalización. Las tres claves en las que gira este proyecto es la desinformación y seguridad digital, salud ambiental y automatización y el futuro de las habilidades y el trabajo**. Y las tres herramientas que usan son: 
-1. Un video de comunicación científica animado probado y evaluado. 
-2. Un prototipo de un widget de desinformación que funciona en canales de comunicación encriptados para ayudar a identificar fuentes confiables 
+*TRESCA* (https://trescaproject.eu/) es un trabajo en torno a la **digitalización y las nuevas tecnologías** cuya función es transmitir los resultados de los estudios del área de estudio de las Ciencias Sociales y Humanidades (SSH: estas siglas en inglés corresponden a "Social Sciences and Humanities") enlazándolo con las investigaciones de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM: estas siglas en inglés corresponden a "Science, Technology, Engineering and Mathematics"). 
+
+Los tres pilares en las que gira este proyecto es la desinformación y seguridad digital, salud ambiental y automatización y el futuro de las habilidades y el trabajo. Y las tres herramientas que usan para darle difusión a dicho trabajo son: 
+1. Un video sobre comunicación científica. 
+2. Un prototipo de una app sobre desinformación para verificar fuentes  
 3. Un curso en abierto en línea (MOOC)
 
-Está dirigido a **científicos, periodistas y a políticos**.
+Dicho proyecto está dirigido especialmente a **científicos, periodistas y a políticos**.
 
 ### Análisis del artículo *¿Las redes sociales son malas para la salud mental?*
 Un artículo que forma parte del proyecto TRESCA es el llamado *¿Las redes sociales son malas para la salud mental?* (https://trescaproject.eu/2021/10/07/are-social-media-harmful-yes-say-most-europeans-but-its-complicated/) Este trabajo forma parte del proyecto TRESCA Horizonte 2020 coordinado por la Universidad Erasmus y se está desarrollando una aplicación para Ms. W (the Misinformation Widget)
 
 En él, se analiza como los científicos extraen la conclusión que las redes sociales desencadenan emociones negativas. Para ello, han preguntado a 7120 ciudadanos en siete países de la Unión Europea: Francia, Alemania, Italia, España, Polonia, Hungría y los Países Bajos. Primero sin mostrarle los datos científicos, y luego les preguntaron, pero ya conociendo todas las investigaciones acerca de ello. **Estos datos están representados en una gráfica llamada  “Resultados de la encuesta de las actividades del WP3 del proyecto TRESCA”. **
 
-Lo que demuestra este estudio es que hay que conocer los datos científicos de primera mano para sacar conclusiones. Y para ello, es necesario que haya herramientas que nos faciliten el conocimiento de ello y su lectura. 
+Lo que demuestra este estudio es que hay que conocer los datos científicos de primera mano para poder sacar conclusiones de calidad. Si no los tenemos, podemos caer en falacias o extraer conclusiones sin un sustento científico. Y por ello, creo que es necesario que haya herramientas que nos faciliten el conocimiento y su consecuente lectura de los estudios científicos. 
 
